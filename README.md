@@ -1,5 +1,6 @@
 # SupervisedLearning
 Supervised learning using ID3 algorithm for CSCI 4350 Introduction to Artificial Intelligence
+
 Overview
 
 Develop a software agent in C++ to learn an ID3 decision tree from labeled classification data.
